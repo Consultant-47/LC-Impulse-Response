@@ -6,4 +6,4 @@ The obtained response is in agreement with the theoretical expectation.
 
 PFA the link of the experiment: - https://drive.google.com/file/d/10mQmEXkeA1QuIg4fE-1cr--i0rEofCh_/view
 
-PS: This experiment was done as a challenge problem of EE229 taken by Prof. Vikram Gadre.
+PS: This experiment was done as a challenge problem of EE229 taken by Prof. Vikram Gadre as a part of Group 2.
